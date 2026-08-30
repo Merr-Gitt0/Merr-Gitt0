@@ -103,8 +103,8 @@
 <h3>📈 GitHub Stats</h3>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats-nine-sigma-87.vercel.app/api?username=Merr-Gitt0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats-nine-sigma-87.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <br/>
