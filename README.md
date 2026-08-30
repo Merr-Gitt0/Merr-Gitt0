@@ -98,17 +98,18 @@
 
 <div align="center">
 
-## 📊 GitHub Activity
+<h2>📊 GitHub Activity</h2>
 
-### 📈 GitHub Stats
+<h3>📈 GitHub Stats</h3>
 
-<p align="center"> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" /> 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <br/>
-### 🔥 Contribution Streak
+
+<h3>🔥 Contribution Streak</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Merr-Gitt0&theme=tokyonight&hide_border=true" />
@@ -116,7 +117,7 @@
 
 <br/>
 
-### 🚀 Coding Activity
+<h3>🚀 Coding Activity</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merr-Gitt0&theme=tokyo-night&hide_border=true&area=true" />
