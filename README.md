@@ -116,7 +116,7 @@
 
 ### 📅 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Merr-Gitt0&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </div>
 
