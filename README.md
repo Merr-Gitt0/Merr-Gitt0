@@ -102,21 +102,26 @@
 
 ### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merr-Gitt0&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-
-<br/><br/>
+<br/>
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=Merr-Gitt0&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Merr-Gitt0&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/><br/>
+<br/>
 
-### 📅 Contribution Activity
+### 🚀 Coding Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Merr-Gitt0&show_icons=true&hide_border=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merr-Gitt0&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 </div>
 
